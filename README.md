@@ -24,7 +24,11 @@
 <p>The other goals/things that I’m looking forward to includes completing this degree, and the Master of business information systems degree (with a specialisation in library science); getting a job as a university librarian; finishing writing my books and potentially publishing them; and last, and most importantly, the COVID pandemic being over!</p>
 
       <h2>Interest in IT</h2>
-          <p></p>
+          <p>I am interested in IT as a pathway into the career of a university librarian, since this job involves a lot of data management, and more technology is being increasingly incorporated into libraries (such as the digitisation of older materials, audiobooks and ebooks).</p>
+          <p>I am also interested in IT because more technology is integrated into society as time passes, and thus, it is a career field that provides a lot of other financially stable jobs because there is a high demand for people with IT skills. So, to prepare for the outcome that I am unable to find an open position as a university librarian, I could also complete the Master of Business information systems degree only with a library science specialisation, but also a computer science specialisation, as it is a degree that is accredited with the Australian Computer Society. I am also considering becoming a data engineer if there are no positions available as a librarian because data management sounds interesting.</p>
+          <p>My interest in the Bachelor of Information Technology degree at RMIT began when I was researching pathways to becoming a librarian and found out that the Master of Business information systems (library specialisation) is one of the accredited ALIA (Australian Library and Information Association). I also enjoyed my enrolment in an IT class in Year 8 and 9 of high school, where we used Scratch to make simple computer games for our assignment.</p>
+          <p>I chose to RMIT because I wanted to complete a Bachelor of Information Technology degree and start midyear, and the midyear applications for the Bachelor of IT at Monash had already closed. In addition, my dad also completed his IT degree at RMIT, and he recommended this university to me.</p>
+          <p>I expect to learn data management (relating to bibliometrics) and digitisation, how to write programs, IT problem solving skills, and how IT computer systems work.</p>
     
       <h2>Ideal Job</h2>
           <p></p>
