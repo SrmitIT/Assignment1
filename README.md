@@ -16,8 +16,9 @@
   <p><li>My culture is Filipino</li></p> 
   <p><li>The highest level of education that I have completed is Year 12</li></p>
   <p><li>I attended Carrington Primary School and Brentwood Secondary College for my education thus far</li></p>
-  <p><li>My language is English<li></p>
+  <p><li>My language is English</li></p>
 </ul>
+
 <p>My hobbies include writing novels, fantasy worldbuilding (for my books!), bouldering (sometimes) drawing, making moodboards, participating in my favourite fandoms (such as making fanart, reading and writing fanfiction and coming up with theories), reading books and baking.</p>
 <p>In addition, my favourite fandoms include Harry Potter, Game of Thrones, Hannibal, The Poppy War, Ava’s Demon, Necropolis, the MCU, The Witcher, Oxenfree, Adventure Time, Inside Job, Star Wars, Merlin (the BBC show), Sherlock Holmes, Avatar: The Last Airbender (and Avatar: Legend of Korra, as well as the fan made comic Legend of Genji), Dragon Age, DC comics, and the Grishaverse.</p>
 <p>Also, I used to be into video games, and I started off with Final Fantasy 13 part 2, and I used to play some XBOX and DS Nintendo games, but I got caught up with my other hobbies and I stopped playing games for a while. I intend to playing again in the future, though to be honest I am still very much a newbie when it comes to video games.</p>
