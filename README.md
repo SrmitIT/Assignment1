@@ -8,9 +8,9 @@
     <h1>Introduction to IT - Assignment 1: My Profile</h1>
 
       <h2>Personal information</h2>
-<p><<ul>My name is Carissa Eleanor Imperial</ul>></p>
-<p><<ul>My student number is s3971782</ul>></p>
-<p><<ul>My student email is s3971782@student.rmit.edu.au</ul>></p>
+<p><ul>My name is Carissa Eleanor Imperial</ul>></p>
+<p><ul>My student number is s3971782</ul>></p>
+<p><ul>My student email is s3971782@student.rmit.edu.au</ul>></p>
 <p><<ul>My nationality is Australian</ul>></p>
 <p><<ul>My culture is Filipino</ul>></p>
 <p><<ul>The highest level of education that I have completed is Year 12</ul>></p>
@@ -81,11 +81,11 @@
 <p>Also, the VR headphones would contain a high quality 360-degree audio, which would heighten the immersion of the TOHCAR VR experience because it makes the user feel like they are actually in the simulated habitat as a result of the sounds in that location appearing to come from above, to the side or behind the user (Anthony Mattana n.d.).</p>
 <p>This is how the TOHCAR VR app experience would be designed to go through this process (in order to use it properly:</p>
 <ol>
-  <li>1. The teacher puts on the VR headset and headphones and physically adjusts the IPD.</li>
-  <li>2. The user mounts the phone onto their VR headset and turns on the headset on, while the user is in a seated position.</li>
-  <li>3. When the VR headset is turned on, the user is located in the equivalent of a VR homepage, which serves as a waiting room where the user can change settings and also select which habitat that they would like to explore with the VR TOHCAR app (XRToday 2022).</li>
-  <li>4. When the user has selected the habitat that they wish to explore with the VR TOHCAR app, the 360-degree photo image of the habitat is fed through the video source (in this case, it is the phone mounted onto the VR headset) – and then, the stereoscopic lenses create the 3D depth to the 360-degree photo or image in the user’s VR experience (Immersion VR n.d.)</li>
-  <li>5. The VR headphones provide the 360-degree audio, and the user can use the wireless right-hand controller to rotate, tilt and move their point of view forwards or backwards, and the wireless left-hand controller to exit the TOHCAR VR habitat, switch to another habitat to explore in the TOHCAR VR app, or select the habitat’s time period (go back to what the habitat looked like).</li>
+  <li>The teacher puts on the VR headset and headphones and physically adjusts the IPD.</li>
+  <li>The user mounts the phone onto their VR headset and turns on the headset on, while the user is in a seated position.</li>
+  <li>When the VR headset is turned on, the user is located in the equivalent of a VR homepage, which serves as a waiting room where the user can change settings and also select which habitat that they would like to explore with the VR TOHCAR app (XRToday 2022).</li>
+  <li>When the user has selected the habitat that they wish to explore with the VR TOHCAR app, the 360-degree photo image of the habitat is fed through the video source (in this case, it is the phone mounted onto the VR headset) – and then, the stereoscopic lenses create the 3D depth to the 360-degree photo or image in the user’s VR experience (Immersion VR n.d.)</li>
+  <li>The VR headphones provide the 360-degree audio, and the user can use the wireless right-hand controller to rotate, tilt and move their point of view forwards or backwards, and the wireless left-hand controller to exit the TOHCAR VR habitat, switch to another habitat to explore in the TOHCAR VR app, or select the habitat’s time period (go back to what the habitat looked like).</li>
 </ol>
 <h3>Tools and Technology</h3>
 <p>The TOHCAR app requires a VR headset (also called hand-held HMD – head-mounted displays) which would enable the user to see the VR habitat (the VR headset for TOHCAR would also be like the Google Cardboard headset which could mount smartphones for VR content); a phone that is Virtual Reality Support compatible (meaning that it has a gyroscope sensor – a device utilised to sense and maintain direction –, and accelerometer – a device used to sense acceleration) (Aditya Tiwari 2016), and wirelesshand controllers (for the user to interact with the VR environment, that changes the user’s point of view of the location that they are in, as well as move around in the simulated location); additionally, the TOHCAR app needs a software platform and SDK (software development kit), a VR engine (which would be responsible for rendering the visual aspects of what user sees in the habitat) and VR headphones (Vilmate Software Organisation n.d.).</p>
