@@ -9,14 +9,14 @@
 
       <h2>Personal information</h2>
 <ol>
-<p><ul>My name is Carissa Eleanor Imperial</ul></p>
-<p><ul>My student number is s3971782</ul></p>
-<p><ul>My student email is s3971782@student.rmit.edu.au</ul></p>
-<p><ul>My nationality is Australian</ul></p>
-<p><ul>My culture is Filipino</ul></p> 
-<p><ul>The highest level of education that I have completed is Year 12</ul></p>
-<p><ul>I attended Carrington Primary School and Brentwood Secondary College for my education thus far</ul></p>
-<p><ul>My language is English<ul></p>
+  <p><ul>My name is Carissa Eleanor Imperial</ul></p>
+  <p><ul>My student number is s3971782</ul></p>
+  <p><ul>My student email is s3971782@student.rmit.edu.au</ul></p>
+  <p><ul>My nationality is Australian</ul></p>
+  <p><ul>My culture is Filipino</ul></p> 
+  <p><ul>The highest level of education that I have completed is Year 12</ul></p>
+  <p><ul>I attended Carrington Primary School and Brentwood Secondary College for my education thus far</ul></p>
+  <p><ul>My language is English<ul></p>
 </ol>
 <p>My hobbies include writing novels, fantasy worldbuilding (for my books!), bouldering (sometimes) drawing, making moodboards, participating in my favourite fandoms (such as making fanart, reading and writing fanfiction and coming up with theories), reading books and baking.</p>
 <p>In addition, my favourite fandoms include Harry Potter, Game of Thrones, Hannibal, The Poppy War, Ava’s Demon, Necropolis, the MCU, The Witcher, Oxenfree, Adventure Time, Inside Job, Star Wars, Merlin (the BBC show), Sherlock Holmes, Avatar: The Last Airbender (and Avatar: Legend of Korra, as well as the fan made comic Legend of Genji), Dragon Age, DC comics, and the Grishaverse.</p>
