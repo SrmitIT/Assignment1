@@ -10,7 +10,8 @@
       <h2>Personal information</h2>
         <p><ul>My name is Carissa Eleanor Imperial</ul></p>
         <p><ul>My student number is s3971782</ul></p>
-        <p><ul>My student email is s3971782@student.rmit.edu.au</ul></p>
+        <p></<ul>My student email is s3971782@student.rmit.edu.au     
+        </ul></p>
         <p><ul>My nationality is Australian</ul></p>
         <p><ul>My culture is Filipino</ul></p>
         <p><ul>The highest level of education that I have completed is Year 12</ul></p>
